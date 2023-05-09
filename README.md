@@ -7,4 +7,4 @@
 ## How to remove Credential cache 
     git credential-wincred erase
 
-## How to remove
+## How to remove the
