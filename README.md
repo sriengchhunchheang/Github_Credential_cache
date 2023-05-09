@@ -8,3 +8,4 @@
     git credential-wincred erase
 
 ## How to add token
+test
